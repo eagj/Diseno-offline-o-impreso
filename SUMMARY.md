@@ -15,4 +15,7 @@
   * [2.2. Preparando un arte final](2.%20Arte%20final%20y%20preimpresión/2.2.%20Preparando%20un%20arte%20final.md)
   * [2.3. Ejercicio](2.%20Arte%20final%20y%20preimpresión/2.3.%20Ejercicio.md)
   * [2.4. Introducción a la preimpresión](2.%20Arte%20final%20y%20preimpresión/2.4.%20Introducción%20a%20la%20preimpresión.md)
+  * [2.5. Elección del papel a imprimir](2.%20Arte%20final%20y%20preimpresión/2.5.%20Elección%20del%20papel%20a%20imprimir.md)
+  * [2.6 Ejercicio](2.%20Arte%20final%20y%20preimpresión/2.6%20Ejercicio.md)
+  * [2.7. Tipos de impresión](2.%20Arte%20final%20y%20preimpresión/2.7.%20Tipos%20de%20impresión.md)
   * 
