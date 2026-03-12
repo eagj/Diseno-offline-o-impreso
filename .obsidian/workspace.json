@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "78cca37fa54726ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.13. Otras herramientas alternativas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.13. Otras herramientas alternativas"
+            }
+          },
+          {
             "id": "5567a860f26487ea",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Maquetación con InDesign/3.12. Ejercicio hazlo tu mismo.md",
+                "file": "3.13. Otras herramientas alternativas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 3.12. Ejercicio hazlo tu mismo"
+              "title": "Enlaces entrantes de 3.13. Otras herramientas alternativas"
             }
           },
           {
@@ -156,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Maquetación con InDesign/3.12. Ejercicio hazlo tu mismo.md",
+                "file": "3.13. Otras herramientas alternativas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 3.12. Ejercicio hazlo tu mismo"
+              "title": "Enlaces salientes de 3.13. Otras herramientas alternativas"
             }
           },
           {
@@ -199,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Maquetación con InDesign/3.12. Ejercicio hazlo tu mismo.md",
+                "file": "3.13. Otras herramientas alternativas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 3.12. Ejercicio hazlo tu mismo"
+              "title": "Esquema de 3.13. Otras herramientas alternativas"
             }
           }
         ]
@@ -227,9 +241,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3918680baed3a1bf",
+  "active": "78cca37fa54726ee",
   "lastOpenFiles": [
     "SUMMARY.md",
+    "3.13. Otras herramientas alternativas.md",
     "3. Maquetación con InDesign/3.12. Ejercicio hazlo tu mismo.md",
     "folleto_publicitario.pdf",
     "folleto_publicitario.zip",
