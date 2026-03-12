@@ -10,4 +10,5 @@
   * [1.7. Estand](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.7.%20Estand.md)
   * [1.8. Packaging](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.8.%20Packaging.md)
   * [1.9. Ejercicio](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.9.%20Ejercicio.md)
-  * 
+* [2. Arte final y preimpresión](2.%20Arte%20final%20y%20preimpresión/README.md)
+  * [2.1 Arte final](2.%20Arte%20final%20y%20preimpresión/2.1%20Arte%20final.md)
