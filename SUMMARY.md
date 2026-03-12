@@ -31,4 +31,4 @@
   * [3.10. Guardar y exportar](3.%20Maquetación%20con%20InDesign/3.10.%20Guardar%20y%20exportar.md)
   * [3.11. Ejercicio](3.%20Maquetación%20con%20InDesign/3.11.%20Ejercicio.md)
   * [3.12. Ejercicio hazlo tu mismo](3.%20Maquetación%20con%20InDesign/3.12.%20Ejercicio%20hazlo%20tu%20mismo.md)
-  * 
+  * [3.13. Otras herramientas alternativas](3.%20Maquetación%20con%20InDesign/3.13.%20Otras%20herramientas%20alternativas.md)
