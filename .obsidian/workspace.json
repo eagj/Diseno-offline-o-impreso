@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Arte final y preimpresión/2.4. Introducción a la preimpresión.md",
+                "file": "2. Arte final y preimpresión/2.5. Elección del papel a imprimir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4. Introducción a la preimpresión"
+              "title": "2.5. Elección del papel a imprimir"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "2.2. Preparando un arte final"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "2. Arte final y preimpresión/2.5. Elección del papel a imprimir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de SUMMARY"
+              "title": "Enlaces entrantes de 2.5. Elección del papel a imprimir"
             }
           },
           {
@@ -155,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "2. Arte final y preimpresión/2.5. Elección del papel a imprimir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de SUMMARY"
+              "title": "Enlaces salientes de 2.5. Elección del papel a imprimir"
             }
           },
           {
@@ -198,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "2. Arte final y preimpresión/2.5. Elección del papel a imprimir.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de SUMMARY"
+              "title": "Esquema de 2.5. Elección del papel a imprimir"
             }
           }
         ]
@@ -226,11 +227,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50de71f12df0242b",
+  "active": "93b7e503825b07e3",
   "lastOpenFiles": [
-    "2. Arte final y preimpresión/2.2. Preparando un arte final.md",
     "2. Arte final y preimpresión/2.4. Introducción a la preimpresión.md",
+    "2. Arte final y preimpresión/2.5. Elección del papel a imprimir.md",
     "SUMMARY.md",
+    "2. Arte final y preimpresión/2.2. Preparando un arte final.md",
     "2. Arte final y preimpresión/2.3. Ejercicio.md",
     "1. Introducción al diseño offline o impreso/Pasted image 20260312143108.png",
     "2. Arte final y preimpresión/Pasted image 20260312143456.png",
