@@ -9,4 +9,5 @@
   * [1.6. Merchandising](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.6.%20Merchandising.md)
   * [1.7. Estand](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.7.%20Estand.md)
   * [1.8. Packaging](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.8.%20Packaging.md)
+  * [1.9. Ejercicio](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.9.%20Ejercicio.md)
   * 
