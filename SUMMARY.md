@@ -8,4 +8,5 @@
   * [1.5. Formatos de roll up de lona, cartel y valla publicitaria](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.5.%20Formatos%20de%20roll%20up%20de%20lona,%20cartel%20y%20valla%20publicitaria.md)
   * [1.6. Merchandising](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.6.%20Merchandising.md)
   * [1.7. Estand](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.7.%20Estand.md)
+  * [1.8. Packaging](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.8.%20Packaging.md)
   * 
