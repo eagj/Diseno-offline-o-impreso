@@ -1,4 +1,4 @@
 # Tabla de contenidos
 
-* [1. Diseñando con Adobe Creative Cloud](1.%20Disenando%20con%20Adobe%20Creative%20Cloud/README.md)
-  * [1.1. Introducción a Adobe](1.%20Disenando%20con%20Adobe%20Creative%20Cloud/1.1.%20Introducción%20a%20Adobe.md)
+* [1. Introducción al diseño offline o impreso](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/README.md)
+  * [1.1. Introducción al diseño offline](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.1.%20Introducción%20al%20diseño%20offline.md)

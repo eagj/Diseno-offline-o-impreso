@@ -35,8 +35,7 @@
               "title": "1.1. Introducción al diseño offline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introducción al diseño offline o impreso/1.1. Introducción al diseño offline.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 1.1. Introducción al diseño offline"
+              "title": "Enlaces entrantes de SUMMARY"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Introducción al diseño offline o impreso/1.1. Introducción al diseño offline.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 1.1. Introducción al diseño offline"
+              "title": "Enlaces salientes de SUMMARY"
             }
           },
           {
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Introducción al diseño offline o impreso/1.1. Introducción al diseño offline.md",
+                "file": "SUMMARY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 1.1. Introducción al diseño offline"
+              "title": "Esquema de SUMMARY"
             }
           }
         ]
@@ -199,8 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b35ade90db04d333",
+  "active": "50de71f12df0242b",
   "lastOpenFiles": [
+    "1. Introducción al diseño offline o impreso/README.md",
     "SUMMARY.md",
     "1. Introducción al diseño offline o impreso/1.1. Introducción al diseño offline.md",
     "1. Introducción al diseño offline o impreso"
