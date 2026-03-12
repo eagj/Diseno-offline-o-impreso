@@ -49,7 +49,8 @@
               "title": "3.11. Ejercicio"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "3. Maquetación con InDesign/3.11. Ejercicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de SUMMARY"
+              "title": "Enlaces entrantes de 3.11. Ejercicio"
             }
           },
           {
@@ -141,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "3. Maquetación con InDesign/3.11. Ejercicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de SUMMARY"
+              "title": "Enlaces salientes de 3.11. Ejercicio"
             }
           },
           {
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "3. Maquetación con InDesign/3.11. Ejercicio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de SUMMARY"
+              "title": "Esquema de 3.11. Ejercicio"
             }
           }
         ]
@@ -212,12 +213,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50de71f12df0242b",
+  "active": "a45cace0835f197f",
   "lastOpenFiles": [
+    "diseno_de_una_revista.zip",
+    "SUMMARY.md",
     "3. Maquetación con InDesign/3.11. Ejercicio.md",
     "diseño_de_una_revista.zip",
     "3. Maquetación con InDesign/3.10. Guardar y exportar.md",
-    "SUMMARY.md",
     "3. Maquetación con InDesign/3.9. Herramientas interactivas.md",
     "3. Maquetación con InDesign/3.8. Añadir páginas.md",
     "3. Maquetación con InDesign/3.7. Colores y efectos.md",
