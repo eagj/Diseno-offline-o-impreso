@@ -25,4 +25,5 @@
   * [3.4. Maquetación del documento](3.%20Maquetación%20con%20InDesign/3.4.%20Maquetación%20del%20documento.md)
   * [3.5. Trabajar con imágenes](3.%20Maquetación%20con%20InDesign/3.5.%20Trabajar%20con%20imágenes.md)
   * [3.6. Diseño del espacio de trabajo](3.%20Maquetación%20con%20InDesign/3.6.%20Diseño%20del%20espacio%20de%20trabajo.md)
+  * [3.7. Colores y efectos](3.%20Maquetación%20con%20InDesign/3.7.%20Colores%20y%20efectos.md)
   * 
