@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "4a29d9e0e5eac9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Maquetación con InDesign/3.1 Introducción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 Introducción"
+            }
+          },
+          {
             "id": "93b7e503825b07e3",
             "type": "leaf",
             "state": {
@@ -256,6 +270,9 @@
   },
   "active": "50de71f12df0242b",
   "lastOpenFiles": [
+    "3. Maquetación con InDesign/3.1 Introducción.md",
+    "SUMMARY.md",
+    "3. Maquetación con InDesign",
     "2. Arte final y preimpresión/2.7. Tipos de impresión.md",
     "2. Arte final y preimpresión/2.6 Ejercicio.md",
     "2. Arte final y preimpresión/Pasted image 20260312154015.png",
@@ -263,7 +280,6 @@
     "2. Arte final y preimpresión/Pasted image 20260312153903.png",
     "2. Arte final y preimpresión/2.5. Elección del papel a imprimir.md",
     "2. Arte final y preimpresión/2.4. Introducción a la preimpresión.md",
-    "SUMMARY.md",
     "2. Arte final y preimpresión/2.2. Preparando un arte final.md",
     "2. Arte final y preimpresión/2.3. Ejercicio.md",
     "1. Introducción al diseño offline o impreso/Pasted image 20260312143108.png",

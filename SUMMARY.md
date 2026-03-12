@@ -18,4 +18,5 @@
   * [2.5. Elección del papel a imprimir](2.%20Arte%20final%20y%20preimpresión/2.5.%20Elección%20del%20papel%20a%20imprimir.md)
   * [2.6 Ejercicio](2.%20Arte%20final%20y%20preimpresión/2.6%20Ejercicio.md)
   * [2.7. Tipos de impresión](2.%20Arte%20final%20y%20preimpresión/2.7.%20Tipos%20de%20impresión.md)
-  * 
+* [3. Maquetación con InDesign](3.%20Maquetación%20con%20InDesign/README.md)
+  * [3.1 Introducción](3.%20Maquetación%20con%20InDesign/3.1%20Introducción.md)
