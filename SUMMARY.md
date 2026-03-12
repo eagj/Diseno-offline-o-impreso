@@ -22,4 +22,5 @@
   * [3.1 Introducción](3.%20Maquetación%20con%20InDesign/3.1%20Introducción.md)
   * [3.2. Primeros pasos en Indesign](3.%20Maquetación%20con%20InDesign/3.2.%20Primeros%20pasos%20en%20Indesign.md)
   * [3.3. Herramienta de texto](3.%20Maquetación%20con%20InDesign/3.3.%20Herramienta%20de%20texto.md)
+  * [3.4. Maquetación del documento](3.%20Maquetación%20con%20InDesign/3.4.%20Maquetación%20del%20documento.md)
   * 
