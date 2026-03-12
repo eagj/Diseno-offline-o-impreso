@@ -29,4 +29,5 @@
   * [3.8. Añadir páginas](3.%20Maquetación%20con%20InDesign/3.8.%20Añadir%20páginas.md)
   * [3.9. Herramientas interactivas](3.%20Maquetación%20con%20InDesign/3.9.%20Herramientas%20interactivas.md)
   * [3.10. Guardar y exportar](3.%20Maquetación%20con%20InDesign/3.10.%20Guardar%20y%20exportar.md)
+  * [3.11. Ejercicio](3.%20Maquetación%20con%20InDesign/3.11.%20Ejercicio.md)
   * 
