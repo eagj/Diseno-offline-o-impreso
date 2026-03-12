@@ -12,3 +12,5 @@
   * [1.9. Ejercicio](1.%20Introducción%20al%20diseño%20offline%20o%20impreso/1.9.%20Ejercicio.md)
 * [2. Arte final y preimpresión](2.%20Arte%20final%20y%20preimpresión/README.md)
   * [2.1 Arte final](2.%20Arte%20final%20y%20preimpresión/2.1%20Arte%20final.md)
+  * [2.2. Preparando un arte final](2.%20Arte%20final%20y%20preimpresión/2.2.%20Preparando%20un%20arte%20final.md)
+  * 
