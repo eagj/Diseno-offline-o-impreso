@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "a6f5262a9131db25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Maquetación con InDesign/3.6. Diseño del espacio de trabajo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.6. Diseño del espacio de trabajo"
+            }
+          },
+          {
             "id": "632865fa5180741b",
             "type": "leaf",
             "state": {
@@ -33,20 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "3.5. Trabajar con imágenes"
-            }
-          },
-          {
-            "id": "988d7b04bf538a27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Maquetación con InDesign/3.4. Maquetación del documento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.4. Maquetación del documento"
             }
           }
         ]
@@ -214,9 +214,10 @@
   },
   "active": "50de71f12df0242b",
   "lastOpenFiles": [
+    "3. Maquetación con InDesign/3.6. Diseño del espacio de trabajo.md",
     "3. Maquetación con InDesign/3.5. Trabajar con imágenes.md",
-    "3. Maquetación con InDesign/3.4. Maquetación del documento.md",
     "SUMMARY.md",
+    "3. Maquetación con InDesign/3.4. Maquetación del documento.md",
     "3. Maquetación con InDesign/3.3. Herramienta de texto.md",
     "3. Maquetación con InDesign/3.2. Primeros pasos en Indesign.md",
     "2. Arte final y preimpresión/2.2. Preparando un arte final.md",
