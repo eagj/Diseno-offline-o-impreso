@@ -13,4 +13,6 @@
 * [2. Arte final y preimpresión](2.%20Arte%20final%20y%20preimpresión/README.md)
   * [2.1 Arte final](2.%20Arte%20final%20y%20preimpresión/2.1%20Arte%20final.md)
   * [2.2. Preparando un arte final](2.%20Arte%20final%20y%20preimpresión/2.2.%20Preparando%20un%20arte%20final.md)
+  * [2.3. Ejercicio](2.%20Arte%20final%20y%20preimpresión/2.3.%20Ejercicio.md)
+  * [2.4. Introducción a la preimpresión](2.%20Arte%20final%20y%20preimpresión/2.4.%20Introducción%20a%20la%20preimpresión.md)
   * 
