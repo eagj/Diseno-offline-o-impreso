@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "ca6a8b7a5f5ea5d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Maquetación con InDesign/3.7. Colores y efectos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.7. Colores y efectos"
+            }
+          },
+          {
             "id": "a6f5262a9131db25",
             "type": "leaf",
             "state": {
@@ -34,22 +48,9 @@
               "icon": "lucide-file",
               "title": "3.6. Diseño del espacio de trabajo"
             }
-          },
-          {
-            "id": "632865fa5180741b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Maquetación con InDesign/3.5. Trabajar con imágenes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.5. Trabajar con imágenes"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "3. Maquetación con InDesign/3.7. Colores y efectos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de SUMMARY"
+              "title": "Enlaces entrantes de 3.7. Colores y efectos"
             }
           },
           {
@@ -141,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "3. Maquetación con InDesign/3.7. Colores y efectos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de SUMMARY"
+              "title": "Enlaces salientes de 3.7. Colores y efectos"
             }
           },
           {
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "3. Maquetación con InDesign/3.7. Colores y efectos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de SUMMARY"
+              "title": "Esquema de 3.7. Colores y efectos"
             }
           }
         ]
@@ -212,11 +213,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50de71f12df0242b",
+  "active": "ca6a8b7a5f5ea5d5",
   "lastOpenFiles": [
     "3. Maquetación con InDesign/3.6. Diseño del espacio de trabajo.md",
-    "3. Maquetación con InDesign/3.5. Trabajar con imágenes.md",
+    "3. Maquetación con InDesign/3.7. Colores y efectos.md",
     "SUMMARY.md",
+    "3. Maquetación con InDesign/3.5. Trabajar con imágenes.md",
     "3. Maquetación con InDesign/3.4. Maquetación del documento.md",
     "3. Maquetación con InDesign/3.3. Herramienta de texto.md",
     "3. Maquetación con InDesign/3.2. Primeros pasos en Indesign.md",
